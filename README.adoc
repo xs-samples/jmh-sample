@@ -1,0 +1,12 @@
+.JMH初探
+****
+https://javalearning.cn/#/docs/system-design/benchmark/JMH[link]
+****
+
+NOTE: 签到
+
+image::https://imgkr.cn-bj.ufileos.com/8f12eddd-03db-48d4-b5ad-4fae60379428.jpg[签到]
+
+NOTE: 评价
+
+image::https://imgkr.cn-bj.ufileos.com/cd0d2404-f93c-4b44-9493-01fd63b8192c.jpg[评价]
